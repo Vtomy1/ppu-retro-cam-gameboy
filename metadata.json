@@ -1,0 +1,6 @@
+{
+  "name": "PPU RetroCam: Game Boy, GBC & GBA ROM & Tile Studio",
+  "description": "Convert live webcam and images to authentic Game Boy, Game Boy Color, and Game Boy Advance PPU tiles, dithered palettes, VRAM pattern tables, and executable ROMs with valid cartridge headers.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
